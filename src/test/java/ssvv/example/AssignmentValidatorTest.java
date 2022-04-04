@@ -1,12 +1,10 @@
 package ssvv.example;
 
-import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
 import ssvv.example.domain.Tema;
 import ssvv.example.validation.TemaValidator;
 import ssvv.example.validation.ValidationException;
 
-import static org.junit.Assert.assertTrue;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class AssignmentValidatorTest {
