@@ -18,9 +18,7 @@ public class AssignmentValidatorTest {
     public void addAssignment_InvalidId_NullId_ThrowsError() {
         Tema tema = new Tema(null, "description", 3, 1);
 
-        Exception exception = assertThrows(ValidationException.class, () -> {
-            temaValidator.validate(tema);
-        });
+        Exception exception = assertThrows(ValidationException.class, () -> temaValidator.validate(tema));
 
         String expectedMessage = "ID invalid! \n";
         String actualMessage = exception.getMessage();
@@ -32,9 +30,7 @@ public class AssignmentValidatorTest {
     public void addAssignment_InvalidId_EmptyId_ThrowsError() {
         Tema tema = new Tema("", "description", 3, 1);
 
-        Exception exception = assertThrows(ValidationException.class, () -> {
-            temaValidator.validate(tema);
-        });
+        Exception exception = assertThrows(ValidationException.class, () -> temaValidator.validate(tema));
 
         String expectedMessage = "ID invalid! \n";
         String actualMessage = exception.getMessage();
@@ -46,9 +42,7 @@ public class AssignmentValidatorTest {
     public void addAssignment_InvalidDescription_NullDescription_ThrowsError() {
         Tema tema = new Tema("1", null, 3, 1);
 
-        Exception exception = assertThrows(ValidationException.class, () -> {
-            temaValidator.validate(tema);
-        });
+        Exception exception = assertThrows(ValidationException.class, () -> temaValidator.validate(tema));
 
         String expectedMessage = "Descriere invalida! \n";
         String actualMessage = exception.getMessage();
@@ -60,9 +54,7 @@ public class AssignmentValidatorTest {
     public void addAssignment_InvalidDescription_EmptyDescription_ThrowsError() {
         Tema tema = new Tema("1", "", 3, 1);
 
-        Exception exception = assertThrows(ValidationException.class, () -> {
-            temaValidator.validate(tema);
-        });
+        Exception exception = assertThrows(ValidationException.class, () -> temaValidator.validate(tema));
 
         String expectedMessage = "Descriere invalida! \n";
         String actualMessage = exception.getMessage();
@@ -74,9 +66,7 @@ public class AssignmentValidatorTest {
     public void addAssignment_InvalidDeadline_DeadlineTooLow_ThrowsError() {
         Tema tema = new Tema("1", "description", 0, 1);
 
-        Exception exception = assertThrows(ValidationException.class, () -> {
-            temaValidator.validate(tema);
-        });
+        Exception exception = assertThrows(ValidationException.class, () -> temaValidator.validate(tema));
 
         String expectedMessage = "Deadline invalid! \n";
         String actualMessage = exception.getMessage();
@@ -88,9 +78,7 @@ public class AssignmentValidatorTest {
     public void addAssignment_InvalidDeadline_DeadlineTooHigh_ThrowsError() {
         Tema tema = new Tema("1", "description", 15, 1);
 
-        Exception exception = assertThrows(ValidationException.class, () -> {
-            temaValidator.validate(tema);
-        });
+        Exception exception = assertThrows(ValidationException.class, () -> temaValidator.validate(tema));
 
         String expectedMessage = "Deadline invalid! \n";
         String actualMessage = exception.getMessage();
@@ -102,9 +90,7 @@ public class AssignmentValidatorTest {
     public void addAssignment_InvalidDeadline_DeadlineLowerThanStartline_ThrowsError() {
         Tema tema = new Tema("1", "description", 1, 3);
 
-        Exception exception = assertThrows(ValidationException.class, () -> {
-            temaValidator.validate(tema);
-        });
+        Exception exception = assertThrows(ValidationException.class, () -> temaValidator.validate(tema));
 
         String expectedMessage = "Deadline invalid! \n";
         String actualMessage = exception.getMessage();
@@ -116,9 +102,7 @@ public class AssignmentValidatorTest {
     public void addAssignment_InvalidStartline_StartlineTooLow_ThrowsError() {
         Tema tema = new Tema("1", "description", 1, 0);
 
-        Exception exception = assertThrows(ValidationException.class, () -> {
-            temaValidator.validate(tema);
-        });
+        Exception exception = assertThrows(ValidationException.class, () -> temaValidator.validate(tema));
 
         String expectedMessage = "Data de primire invalida! \n";
         String actualMessage = exception.getMessage();
