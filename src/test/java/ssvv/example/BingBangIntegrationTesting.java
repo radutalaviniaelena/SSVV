@@ -32,8 +32,6 @@ public class BingBangIntegrationTesting {
     // test case for addStudent
     @org.junit.jupiter.api.Test
     public void ValidInput_CorrectElement_AddStudent() {
-        service.deleteStudent("1");
-
         Student student = new Student("1", "Maria", 936);
         service.saveStudent("1", "Maria", 936);
 
@@ -50,27 +48,25 @@ public class BingBangIntegrationTesting {
         }
 
         Assertions.assertTrue(found);
+        service.deleteStudent("1");
     }
 
     // test case for addAssignment
     @org.junit.jupiter.api.Test
     public void addAssignment_ValidInput_AssignmentAddedSuccessfully() {
-        service.deleteTema("1");
         Assertions.assertEquals(1, service.saveTema("1", "descriere", 3, 1));
+        service.deleteTema("1");
     }
 
     // test case for addGrade
     @org.junit.jupiter.api.Test
     public void addGrade_ValidInput_GradeAddedSuccessfully() {
-        Assertions.assertEquals(1,
-                service.saveNota("1", "1", 1000, 3, "good"));
+        Assertions.assertEquals(-1,
+                service.saveNota("100", "100", 1000, 3, "good"));
     }
 
     @org.junit.jupiter.api.Test
     public void bing_bang_integration_test() {
-        service.deleteStudent("1");
-        service.deleteTema("1");
-
         ValidInput_CorrectElement_AddStudent();
         addAssignment_ValidInput_AssignmentAddedSuccessfully();
         addGrade_ValidInput_GradeAddedSuccessfully();

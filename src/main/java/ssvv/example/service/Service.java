@@ -61,9 +61,10 @@ public class Service {
             Nota result = notaXmlRepo.save(nota);
 
             if (result == null) {
-                return 1;
+                // if the grade for the given student and assignment already exists, the grade will not be added
+                return 0;
             }
-            return 0;
+            return 1;
         }
     }
 
