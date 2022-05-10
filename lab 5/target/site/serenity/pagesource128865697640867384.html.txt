@@ -1,0 +1,3025 @@
+<html q-ctrl="Omi\Travel\View\Frontend" class="QWebControl omi-control" q-args="$seo = null, $Branding = null" qctrl="Omi\Travel\View\Frontend"><head q-args="$seo = null, $Branding = null">
+				<!-- Google Tag Manager -->
+<script src="https://embed.tawk.to/_s/v4/app/625d36b405c/js/twk-main.js" charset="UTF-8" crossorigin="*"></script><script src="https://embed.tawk.to/_s/v4/app/625d36b405c/js/twk-vendor.js" charset="UTF-8" crossorigin="*"></script><script src="https://embed.tawk.to/_s/v4/app/625d36b405c/js/twk-chunk-vendors.js" charset="UTF-8" crossorigin="*"></script><script src="https://embed.tawk.to/_s/v4/app/625d36b405c/js/twk-chunk-common.js" charset="UTF-8" crossorigin="*"></script><script src="https://embed.tawk.to/_s/v4/app/625d36b405c/js/twk-runtime.js" charset="UTF-8" crossorigin="*"></script><script src="https://embed.tawk.to/_s/v4/app/625d36b405c/js/twk-app.js" charset="UTF-8" crossorigin="*"></script><script async="" src="https://embed.tawk.to/604a0498385de407571f03ac/1f0gi3vn8" charset="UTF-8" crossorigin="*"></script><script type="text/javascript" async="" src="https://static.hotjar.com/c/hotjar-1536690.js?sv=7"></script><script type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" charset="utf-8" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/dad5257e8784c6cb4633ebbf068517135d2e0d05/popup.js"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/nEGwmCAyCoKVn9PSwAGnQWhY/recaptcha__ro.js" crossorigin="anonymous" integrity="sha384-1KH5qQZt2UriVkdidPkcKCF8/dowv2DLgIuzHoE8st/ceP1gNU0CSE/LsADhwdqj"></script><script src="https://connect.facebook.net/signals/config/287720064720954?v=2.9.58&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://chimpstatic.com/mcjs-connected/js/users/db0f7d1eab53f95f09d338553/2a8f0647ebc9f12be163a4c0d.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NSZBF8"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NSZBF8');</script>
+<!-- End Google Tag Manager -->
+
+<!-- MAILCHIMP -->
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/db0f7d1eab53f95f09d338553/2a8f0647ebc9f12be163a4c0d.js");</script>
+
+<meta name="facebook-domain-verification" content="wl4wu060fyhvnm6535n193nrmiknnl"> 
+	
+	<!-- META TAGS :: BEGIN -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+
+	
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+
+		<!-- OPEN GRAPH
+		============================================================================= -->
+		<meta property="og:title" content="">
+		<meta property="og:type" content="website">
+					<meta property="og:image" content="https://www.eximtur.ro/code/res/images/__tfc_eximtur_ro__default_image.png">
+				<meta property="og:url" content="https://www.eximtur.ro/global-search/Turcia">
+		<meta property="og:description" content="">
+
+		
+		
+		<!-- META TAGS :: END -->
+	
+	<title></title>
+
+	<base href="https://www.eximtur.ro/">
+
+	
+							
+								<link rel="icon" type="image/png" sizes="32x32" href="https://www.eximtur.ro/uploads/branding/fav_icons/favicon.ico">
+										<script async="" type="text/javascript">
+						try
+						{
+							window.__branding = JSON.parse("{\"_ty\":\"Omi\\\\Cms\\\\Branding\",\"_id\":3,\"MarginTop\":0,\"ReplacementImage\":\"Box-img-EXMv2-1.png\",\"Id\":3,\"Logo\":\"Logo-site-EXIMTUR-2019-275x60-martie.png\",\"FavIcon\":\"favicon.ico\",\"ColorWhite\":\"#FFFFFF\",\"ColorDark\":\"#1976d2\",\"ColorPrimary\":\"#2196f3\",\"ColorLight\":\"#bbdefb\",\"ColorBlack\":\"#212121\",\"ColorGray\":\"#727272\",\"ColorAccent\":\"#ff9800\",\"ColorBorder\":\"#B6B6B6\"}");
+						}
+						catch (ex)
+						{
+							// leave it as it is
+						}
+					</script>
+				
+		<!-- FONTS =============================================================== -->
+					<link rel="stylesheet" href="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/css/opensans.css?t=1642591898">
+							<link type="text/css" rel="stylesheet" href="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/css/fonts.css?t=1642595495">
+							<link type="text/css" rel="stylesheet" href="https://www.eximtur.ro/code/res/css/fonts.css?t=1642595495">
+							<link rel="stylesheet" href="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/css/fontawesome550all.css?t=1642591898">
+							<link rel="stylesheet" href="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/css/material_design.css?t=1642591898">
+				<!-- FONTS END =============================================================== -->
+
+		<script async="" tag="init-vars" type="text/javascript">
+			window._use_multi_functionality = true;
+			window._multiAsync_loadResultsAtEveryXSeconds = 4;
+			window._recaptcha_invisible = false;
+			window._mobile_detected = false;
+
+			var QApp = {"DataClass" : "Omi\App" , "DataId" : "1"};				
+			window.DEFAULT_IMAGE = "https%3A%2F%2Fwww.eximtur.ro%2Fcode%2Fres%2Fimages%2F__tfc_eximtur_ro__default_image.png";
+			window.LOAD_SEARCH_DEFAULTS_WHEN_ONLY_ONE_RESULT = true;
+									window.IMGSRESIZECFG = {
+	"responsive_sizes" : [480,560,780,1024],
+	"images_folder" : "rsp_images",
+	"search_cls" : "-r-img-",
+	"src_attr" :  "r-src",
+	"use_na" : true,
+	"na_img" : "res/i/no_image.jpg",
+	"update_missing_img" : false,
+	"cdn_url" : "https://cdn-prod.travelfuse.ro/"
+}
+;
+							</script>
+
+									<script type="text/javascript" src="https://www.eximtur.ro/code/temp/res/de0751f049aa2dbe7e9d79b7f1e08312cc8eca18.gen.min.js?t=1649925689"></script>
+					
+									<link type="text/css" rel="stylesheet" href="https://www.eximtur.ro/code/temp/res/0ce6c80203787604f54f9c23e1f9f5a1d8173a46.gen.min.css?t=1649925674">
+					
+						
+			
+			
+					<script async="" q-args="$code = null" type="text/javascript">
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-7332708-1']);
+			  _gaq.push(['_trackPageview']);
+
+			  (function() {
+				var ga = document.createElement('script');
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+					'http://www') + '.google-analytics.com/ga.js';
+				ga.setAttribute('async', 'true');
+				document.documentElement.firstChild.appendChild(ga);
+			  })();
+			</script><script src="https://ssl.google-analytics.com/ga.js" async="true"></script>
+				
+			
+								
+		<script q-args="$code = null, $showTrack = false, $totalPrice = null, $currency = 'EUR'" type="text/javascript">
+if(typeof fbq === 'undefined') 
+{
+	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+	n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+	document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+	fbq('init', '287720064720954');
+	fbq('track', "PageView");
+	}
+else
+{
+	fbq('track', "PageView");
+	}
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=287720064720954&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+		
+		<!-- MAILCHIMP CONNECT WEBSITE :: BEGIN -->
+				<!-- MAILCHIMP CONNECT WEBSITE :: END -->
+
+		
+		<!-- GOOGLE WEBMSTER TOOLS KEY :: BEGIN -->
+				<!-- GOOGLE WEBMSTER TOOLS KEY :: END -->
+
+		<!-- OMNICONVERT CODE ::BEGIN -->
+				<!-- OMNICONVERT CODE ::END -->
+
+		<!-- HOTJAR CODE ::BEGIN -->
+				<!-- HOTJAR CODE ::END -->
+
+		<!-- ZOPIM CODE ::BEGIN -->
+				<!-- ZOPIM CODE ::END -->
+
+		<!-- COLLECT CHAT CODE ::BEGIN -->
+				<!-- COLLECT CHAT CODE ::END -->
+
+		<!-- GOOGLE TAG MANAGER HEAD :: BEGIN -->
+				<!-- GOOGLE TAG MANAGER HEAD :: END -->
+
+		<!-- GOOGLE ADWORDS TAG MANAGER HEAD :: BEGIN -->
+				<!-- GOOGLE ADWORDS TAG MANAGER HEAD :: END -->
+
+		<!-- ANALYTICS 7W :: BEGIN -->
+				<!-- ANALYTICS 7W :: END -->
+
+														
+		<!-- INSPECTLET CODE :: BEGIN -->
+				<!-- INSPECTLET CODE :: END -->
+
+		<!-- COOKIE BOT CONSENT :: BEGIN -->
+				<!-- COOKIE BOT CONSENT :: END -->
+
+		<!-- LOAD GOOGLE RE-CAPTCA -->
+					<script async="" src="https://www.google.com/recaptcha/api.js?onload=recaptcha_Load&amp;render=explicit&amp;hl=ro"></script>
+		
+				
+				<!-- GOOGLE AD TRACK CLICK :: BEGIN -->
+				<!-- GOOGLE AD TRACK CLICK :: END -->
+
+		
+						
+			<script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1017482581/?random=1652104912549&amp;cv=9&amp;fst=1652104912549&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=864&amp;u_w=1536&amp;u_ah=824&amp;u_aw=1536&amp;u_cd=24&amp;u_his=5&amp;u_tz=180&amp;u_java=false&amp;u_nplug=5&amp;u_nmime=2&amp;gtm=2wg540&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fwww.eximtur.ro%2Fglobal-search%2FTurcia&amp;ref=https%3A%2F%2Fwww.eximtur.ro%2F&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script async="" src="https://script.hotjar.com/modules.5107f832d0ffac1bd5aa.js" charset="utf-8"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style><link rel="stylesheet" type="text/css" href="//downloads.mailchimp.com/css/signup-forms/popup/dad5257e8784c6cb4633ebbf068517135d2e0d05/modal.css" media="all"><style type="text/css" id=""></style><script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/625d36b405c/js/twk-chunk-2d0d2b7c.js"></script><script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/625d36b405c/js/twk-chunk-696bc286.js"></script><script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/625d36b405c/js/twk-chunk-f1596d96.js"></script><script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/625d36b405c/js/twk-chunk-48f46bef.js"></script><script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/625d36b405c/js/twk-chunk-4fe9d5dd.js"></script><script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/625d36b405c/js/twk-chunk-2d0b9454.js"></script><script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/625d36b405c/js/twk-chunk-f163fcd0.js"></script><script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/625d36b405c/js/twk-chunk-32507910.js"></script><style type="text/css">#g38ipidc2iqo1652104913061 {outline:none !important;
+visibility:visible !important;
+resize:none !important;
+box-shadow:none !important;
+overflow:visible !important;
+background:none !important;
+opacity:1 !important;
+filter:alpha(opacity=100) !important;
+-ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1}) !important;
+-mz-opacity:1 !important;
+-khtml-opacity:1 !important;
+top:auto !important;
+right:0px !important;
+bottom:0px !important;
+left:auto !important;
+position:fixed !important;
+border:0 !important;
+min-height:0px  !important;
+min-width:0px  !important;
+max-height:none  !important;
+max-width:none  !important;
+padding:0px !important;
+margin:0px !important;
+-moz-transition-property:none !important;
+-webkit-transition-property:none !important;
+-o-transition-property:none !important;
+transition-property:none !important;
+transform:none !important;
+-webkit-transform:none !important;
+-ms-transform:none !important;
+width:auto !important;
+height:auto  !important;
+display:none !important;
+z-index:2000000000 !important;
+background-color:transparent !important;
+cursor:none !important;
+float:none !important;
+border-radius:unset !important;
+pointer-events:auto !important;
+clip:auto !important;
+color-scheme:light !important;}</style><script src="https://cdn.jsdelivr.net/emojione/2.2.7/lib/js/emojione.min.js" type="text/javascript" async="" defer=""></script><script src="https://cdn.jsdelivr.net/emojione/2.2.7/lib/js/emojione.min.js" type="text/javascript" async="" defer=""></script><style type="text/css">@keyframes tawkMaxOpen{0%{opacity:0;transform:translate(0, 30px);;}to{opacity:1;transform:translate(0, 0px);}}@-moz-keyframes tawkMaxOpen{0%{opacity:0;transform:translate(0, 30px);;}to{opacity:1;transform:translate(0, 0px);}}@-webkit-keyframes tawkMaxOpen{0%{opacity:0;transform:translate(0, 30px);;}to{opacity:1;transform:translate(0, 0px);}}#u9ta81o6h98g1652104913103.open{animation : tawkMaxOpen .25s ease!important;}@keyframes tawkMaxClose{from{opacity: 1;transform:translate(0, 0px);;}to{opacity: 0;transform:translate(0, 30px);;}}@-moz-keyframes tawkMaxClose{from{opacity: 1;transform:translate(0, 0px);;}to{opacity: 0;transform:translate(0, 30px);;}}@-webkit-keyframes tawkMaxClose{from{opacity: 1;transform:translate(0, 0px);;}to{opacity: 0;transform:translate(0, 30px);;}}#u9ta81o6h98g1652104913103.closed{animation: tawkMaxClose .25s ease!important}</style></head>
+			<body class="main-container-bg tpl-body" q-args="$contentCtrl = null" data-params="{&quot;SP_OFF_REQ_ENABLED&quot;:false,&quot;SP_OFF_REQ_USE_POPUP&quot;:false,&quot;CS_NEWSLETTER_POPUP_TEXT&quot;:&quot;Atunci cand va inscrieti la newsletter-ul nostru sau alegeti sa primiti oferte sau informari de la noi prin introducerea adresei de e-mail si facand click pe butonul intitulat \\\&quot;Aboneaza-te\\\&quot;, colectam adresa dvs de e-mail si ip-ul. Va dati consimtamantul pentru a primi newsletter-ul nostru, inscriindu-va pentru a-l primi, utilizand pasii descrisi mai sus.&quot;,&quot;DINAMIC_LOADER&quot;:false}" style="overflow: auto;">		
+
+		
+							<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NSZBF8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --> 
+			
+												<div class="q-fake-js" style="display: none;" data-src="https://www.eximtur.ro/code/temp/js_paths.js?t=1649925688"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/omi-frame/src/view/js/stacktrace.js?t=1642591895"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/omi-frame/src/view/js/phpjs.js?t=1642591895"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/omi-frame/src/view/js/jquery-3.5.1.js?t=1642591895"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/omi-frame/src/base/QObject.js?t=1642591895"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/omi-frame/src/view/js/functions.js?t=1642591895"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/omi-frame/src/view/js/mvvm.js?t=1649917941"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/img.responsive/img.responsive.js?t=1642591898"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/css/omi-css/js/equal-height.js?t=1642591898"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/css/omi-css/js/basic.js?t=1642591898"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/mvvm/mvvm2.js?t=1642591898"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/mvvm/basic-controls.js?t=1642591898"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/select2.full.min.js?t=1642591898"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/functions.js?t=1642591898"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/unslider.min.js?t=1642591898"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/datepickr.js?t=1642591898"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/jquery.galleriffic.js?t=1642591898"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/jquery.opacityrollover.js?t=1642591898"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/jquery.prettyPhoto.js?t=1642591898"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/owl-carousel/owl.carousel.min.js?t=1642591898"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/jquery.waypoints.min.js?t=1642591898"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/timepicki/timepicki.js?t=1642591898"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/nouislider/jquery.nouislider.all.min.js?t=1642591898"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/jquery-countdown/jquery.plugin.min.js?t=1642591898"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/jquery-countdown/jquery.countdown.min.js?t=1642591898"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/jquery-countdown/jquery.countdown-ro.js?t=1642591898"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/jquery.unveil.js?t=1642591898"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/fancybox/jquery.fancybox.min.js?t=1642591898"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/jquery.unveilItems.js?t=1642591898"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/chartjs.min.js?t=1642591898"></div><script src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" type="text/javascript"></script>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/readmore_new.js?t=1642591898"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/intl-tel-input/intlTelInput.min.js?t=1642591898"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/intl-tel-input/utils.js?t=1642591898"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/base/_res/js/bootstrap.tooltip.js?t=1632238473"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/base/_res/js/custom.js?t=1647096611"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views//base/_res/js/travelfuse_1.js?t=1632238473"></div>
+									<div class="q-fake-js" style="display: none;" data-src="https://www.eximtur.ro/code/res/js/custom.js?t=1642660950"></div>
+									<div class="q-fake-js" style="display: none;" data-src="code/res/js/iframeResizer.min.js"></div>
+							
+												<div class="q-fake-css" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/css/omi-css/css/omiframe.css?t=1642591898"></div>
+									<div class="q-fake-css" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/mvvm/mvvm2.css?t=1642591898"></div>
+									<div class="q-fake-css" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/css/select2.min.css?t=1642591898"></div>
+									<div class="q-fake-css" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/nouislider/jquery.nouislider.min.css?t=1642591898"></div>
+									<div class="q-fake-css" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/css/datepickr.min.css?t=1642591898"></div>
+									<div class="q-fake-css" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/css/prettyPhoto.css?t=1642591898"></div>
+									<div class="q-fake-css" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/fancybox/jquery.fancybox.min.css?t=1642591898"></div>
+									<div class="q-fake-css" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/owl-carousel/owl.carousel.css?t=1642591898"></div>
+									<div class="q-fake-css" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/owl-carousel/owl.theme.css?t=1642591898"></div>
+									<div class="q-fake-css" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/owl-carousel/animate.css?t=1642591898"></div>
+									<div class="q-fake-css" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/timepicki/timepicki.css?t=1642591898"></div>
+									<div class="q-fake-css" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/jquery-countdown/jquery.countdown.css?t=1642591898"></div>
+									<div class="q-fake-css" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/js/intl-tel-input/intlTelInput.min.css?t=1642591898"></div>
+									<div class="q-fake-css" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/base/_res/css/main.css?t=1646380693"></div>
+									<div class="q-fake-css" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/base/_res/css/travelfuse_1.css?t=1632238472"></div>
+									<div class="q-fake-css" style="display: none;" data-src="https://www.eximtur.ro/code/res/css/main.css?t=1649925669"></div>
+									<div class="q-fake-css" style="display: none;" data-src="https://www.eximtur.ro/code/res/css/travelfuse_1_color_theme.css?t=1642660950"></div>
+							
+			<!-- FACEBOOK CHAT :: BEGIN -->
+			
+			
+			<!-- FIXED PHONE BTN :: BEGIN -->
+						<!-- FIXED PHONE BTN :: END -->
+
+			
+			<!-- GOOGLE TAG MANAGER BODY :: BEGIN -->
+						<!-- GOOGLE TAG MANAGER BODY :: END -->
+			
+							<div style="display: none;" id="maps-api-key" data-key="AIzaSyC95BM1wa0xLylGQAnUjxRkQ4NokyEFW5U"></div>
+			
+							<div id="cookies_info" class="toggled">
+					Folosim cookies pentru a va oferi o experienta personalizata. <a href="cookie" target="_blank" data-toggle="modal">Click aici</a> pentru mai multe informatii despre cookies si modul lor de folosire.
+					<a href="javascript: void(0);" class="cookies_info_btn"><i class="fas fa-times"></i></a>
+				</div>
+			
+						<div class="container">
+		<div class="flex-row top-header-bar">
+			<a class="logo" href="">
+								
+															<img src="uploads/branding/logos/thumbs_360X100/Logo-site-EXIMTUR-2019-275x60-martie.png" alt="Agentia de turism EXIMTUR">
+													
+							</a>		
+			
+			<div class="flex-row show-sm">
+									<a class="text-lg header-phone" href="tel:0364803888">
+						<svg xmlns="http://www.w3.org/2000/svg" width="19.943" height="19.985" viewBox="0 0 19.943 19.985">
+							<defs>
+								<style>.a{fill:#006299;}</style>
+							</defs>
+							<g transform="translate(-0.539 0)">
+								<g transform="translate(0.539 0)">
+									<path class="a" d="M19.959,14.667,17.17,11.878a1.855,1.855,0,0,0-3.088.7,1.9,1.9,0,0,1-2.191,1.2A8.6,8.6,0,0,1,6.712,8.591,1.805,1.805,0,0,1,7.907,6.4a1.855,1.855,0,0,0,.7-3.088L5.815.523a1.989,1.989,0,0,0-2.689,0L1.233,2.415c-1.892,1.992.2,7.271,4.881,11.953s9.96,6.873,11.953,4.881l1.892-1.892A1.989,1.989,0,0,0,19.959,14.667Z" transform="translate(-0.539 0)"></path>
+								</g>
+							</g>
+						</svg>
+					</a>
+							</div>
+
+												<a href="myaccount/login" class="show-sm">
+						<svg xmlns="http://www.w3.org/2000/svg" width="17.978" height="20.085" viewBox="0 0 17.978 20.085"><defs><style>.a{fill:#006299;}</style></defs><g transform="translate(3.776)"><path class="a" d="M116.006,0a5.215,5.215,0,1,0,5.215,5.215A5.229,5.229,0,0,0,116.006,0Z" transform="translate(-110.791)"></path></g><g transform="translate(0 10.803)"><g transform="translate(0)"><path class="a" d="M42.1,251.635a4.863,4.863,0,0,0-.524-.956,6.482,6.482,0,0,0-4.486-2.824.96.96,0,0,0-.66.159,5.559,5.559,0,0,1-6.558,0,.854.854,0,0,0-.66-.159,6.435,6.435,0,0,0-4.486,2.824,5.606,5.606,0,0,0-.524.956.484.484,0,0,0,.023.433,9.083,9.083,0,0,0,.615.911,8.653,8.653,0,0,0,1.048,1.184,13.633,13.633,0,0,0,1.048.911,10.384,10.384,0,0,0,12.388,0,10,10,0,0,0,1.048-.911,10.516,10.516,0,0,0,1.048-1.184,7.983,7.983,0,0,0,.615-.911A.389.389,0,0,0,42.1,251.635Z" transform="translate(-24.165 -247.841)"></path></g></g></svg>
+					</a>
+										
+			<div class="show-sm">
+				<a href="myaccount/wishlist" class="fav-off-link has-offers">
+					<svg xmlns="http://www.w3.org/2000/svg" width="22.751" height="20.085" viewBox="0 0 22.751 20.085"><defs><style>.a{fill:#006299;}</style></defs><g transform="translate(0)"><g transform="translate(0 0)"><path class="a" d="M16.708,30a5.386,5.386,0,0,0-3.364,1.163,7.663,7.663,0,0,0-1.968,2.367,7.663,7.663,0,0,0-1.968-2.367A5.386,5.386,0,0,0,6.043,30C2.6,30,0,32.818,0,36.555c0,4.037,3.241,6.8,8.148,10.981.833.71,1.778,1.515,2.759,2.373a.711.711,0,0,0,.936,0c.982-.859,1.926-1.663,2.76-2.374,4.906-4.181,8.148-6.943,8.148-10.98C22.751,32.818,20.153,30,16.708,30Z" transform="translate(0 -30)"></path></g></g></svg>
+				</a>
+			</div>
+
+						
+			<!-- GLOBAL SEARCH :: BEGIN -->
+				
+	
+<div class="cs-global-search js-global-search">
+	<div class="cs-global-search-inner js-global-search-inner">
+		<div class="cs-global-search-component mdt-border-primary">
+			<div class="cs-global-search-table">
+				<div class="cs-global-search-cell cs-global-search-input-cell">
+					<input name="q" class="js-global-search-input cs-global-search-input" placeholder="Ce vrei sa cauti azi?" autocomplete="off" type="search">
+				</div>
+				<div class="cs-global-search-cell cs-global-search-actions-cell">
+					<a class="cs-global-search-action cs-global-search-clear js-global-search-clear">
+						<!-- <i class="fas fa-close mdt-c"></i> -->
+						<i class="fas fa-times"></i>
+					</a>
+					<a class="cs-global-search-action cs-global-search-submit js-global-search-submit">
+						<!-- <i class="fas fa-search mdt-c"></i> -->
+						
+		<svg xmlns="http://www.w3.org/2000/svg" width="18.718" height="18" viewBox="0 0 18.718 18"><defs><style>.a{fill:#006299;}</style></defs><g transform="translate(0 0)"><path class="a" d="M8.909,291.161a8.08,8.08,0,1,0,0,16.148,8.555,8.555,0,0,0,5.23-1.771l3.5,3.36a.962.962,0,0,0,1.322,0,.875.875,0,0,0,0-1.271l-3.5-3.361a7.846,7.846,0,0,0,1.844-5.034,8.252,8.252,0,0,0-8.4-8.07Zm0,1.794a6.285,6.285,0,1,1,0,12.56,6.285,6.285,0,1,1,0-12.56Z" transform="translate(-0.514 -291.161)"></path></g></svg>
+	
+					</a>
+				</div>
+			</div>
+		</div>
+		<div class="cs-global-search-dropdown">
+			<div class="cs-global-search-dropdown-content">
+				<div class="cs-global-search-dropdown-section">
+					
+					<div class="cs-global-search-dropdown-section-inner">
+							<div style="display: none;" class="cs-global-search-dropdown-nav js-global-search-suggestions">
+					<div>
+				<a>Nu am gasit sugestii</a>
+			</div>
+			</div>
+						<img class="cs-global-search-loader js-global-search-loader" src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/res/i/i__loader.gif">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="cs-global-search-background-blocker"></div>
+</div>
+			<!-- GLOBAL SEARCH :: END -->
+			
+			
+			<div class="hide-sm">
+									<a class="text-lg header-phone flex-row" href="tel:0364803888">
+						<svg xmlns="http://www.w3.org/2000/svg" width="19.943" height="19.985" viewBox="0 0 19.943 19.985">
+							<defs>
+								<style>.a{fill:#006299;}</style>
+							</defs>
+							<g transform="translate(-0.539 0)">
+								<g transform="translate(0.539 0)">
+									<path class="a" d="M19.959,14.667,17.17,11.878a1.855,1.855,0,0,0-3.088.7,1.9,1.9,0,0,1-2.191,1.2A8.6,8.6,0,0,1,6.712,8.591,1.805,1.805,0,0,1,7.907,6.4a1.855,1.855,0,0,0,.7-3.088L5.815.523a1.989,1.989,0,0,0-2.689,0L1.233,2.415c-1.892,1.992.2,7.271,4.881,11.953s9.96,6.873,11.953,4.881l1.892-1.892A1.989,1.989,0,0,0,19.959,14.667Z" transform="translate(-0.539 0)"></path>
+								</g>
+							</g>
+						</svg>
+						<span class="m-left-10">0364803888</span>
+					</a>
+							</div>
+
+												<a href="myaccount/login" class="hide-sm">
+						<svg xmlns="http://www.w3.org/2000/svg" width="17.978" height="20.085" viewBox="0 0 17.978 20.085"><defs><style>.a{fill:#006299;}</style></defs><g transform="translate(3.776)"><path class="a" d="M116.006,0a5.215,5.215,0,1,0,5.215,5.215A5.229,5.229,0,0,0,116.006,0Z" transform="translate(-110.791)"></path></g><g transform="translate(0 10.803)"><g transform="translate(0)"><path class="a" d="M42.1,251.635a4.863,4.863,0,0,0-.524-.956,6.482,6.482,0,0,0-4.486-2.824.96.96,0,0,0-.66.159,5.559,5.559,0,0,1-6.558,0,.854.854,0,0,0-.66-.159,6.435,6.435,0,0,0-4.486,2.824,5.606,5.606,0,0,0-.524.956.484.484,0,0,0,.023.433,9.083,9.083,0,0,0,.615.911,8.653,8.653,0,0,0,1.048,1.184,13.633,13.633,0,0,0,1.048.911,10.384,10.384,0,0,0,12.388,0,10,10,0,0,0,1.048-.911,10.516,10.516,0,0,0,1.048-1.184,7.983,7.983,0,0,0,.615-.911A.389.389,0,0,0,42.1,251.635Z" transform="translate(-24.165 -247.841)"></path></g></g></svg>
+					</a>
+							
+			<div class="hide-sm">
+				<a href="myaccount/wishlist" class="fav-off-link has-offers">
+					<svg xmlns="http://www.w3.org/2000/svg" width="22.751" height="20.085" viewBox="0 0 22.751 20.085"><defs><style>.a{fill:#006299;}</style></defs><g transform="translate(0)"><g transform="translate(0 0)"><path class="a" d="M16.708,30a5.386,5.386,0,0,0-3.364,1.163,7.663,7.663,0,0,0-1.968,2.367,7.663,7.663,0,0,0-1.968-2.367A5.386,5.386,0,0,0,6.043,30C2.6,30,0,32.818,0,36.555c0,4.037,3.241,6.8,8.148,10.981.833.71,1.778,1.515,2.759,2.373a.711.711,0,0,0,.936,0c.982-.859,1.926-1.663,2.76-2.374,4.906-4.181,8.148-6.943,8.148-10.98C22.751,32.818,20.153,30,16.708,30Z" transform="translate(0 -30)"></path></g></g></svg>
+				</a>
+			</div>
+
+					</div>
+		
+									<div class="js-loader-text display-none" data-loader="Te rugăm să aștepți, căutăm cele mai bune oferte.
+Mulțumim pentru răbdare."></div>
+		<div class="js-loader-text-plus display-none" data-loader=""></div>
+		<div class="header-background"></div>
+	</div>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","287720064720954");fbq("set","agent","tmgoogletagmanager","287720064720954");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=287720064720954&amp;ev=PageView&amp;noscript=1"></noscript>
+
+	<div class="header-menu-bar">
+		<div class="container">
+			<div class="flex-row justify-between align-items-center">
+				<div class="big-menu-wrapper js-big-menu-wrapper">
+					<a href="javascript: void(0);" class="flex-row big-menu-btn js-trigger-big-menu">
+						<svg xmlns="http://www.w3.org/2000/svg" width="22" height="18" viewBox="0 0 22 18">
+							<defs><style>.aa{fill:#fff;}</style></defs>
+							<g transform="translate(-5 -7)">
+								<path class="aa" d="M25,14H7a2,2,0,0,0,0,4H25a2,2,0,0,0,0-4Z"></path>
+								<path class="aa" d="M7,11H25a2,2,0,0,0,0-4H7a2,2,0,0,0,0,4Z"></path>
+								<path class="aa" d="M25,21H7a2,2,0,0,0,0,4H25a2,2,0,0,0,0-4Z"></path>
+							</g>
+						</svg>
+						<span>Vacante</span>						
+					</a>
+					<div class="big-menu js-big-menu">
+										
+	<nav class="qc-menu tpl-menu-nav flex-menu">
+					<div class="mobile-menu-header">
+				<span>Destinatii</span>
+				<a href="javascript: void(0);" class="js-close-menu">
+					<i class="zmdi zmdi-close"></i>
+				</a>
+			</div>
+			<ul class="tpl-menu-main-list cs-agregator-menu cs-website-main-menu js-website-main-menu">
+									
+															
+					
+																				<li class="tpl-menu-item js-menu-flevel-itm-li menu-itm mega-menu">
+						<a href="vacante-romania" class=" js-menu-flevel-itm-with-children cs-menu-flevel-itm-with-children vacanteromania"><span>Vacante in Romania</span>
+							<span>
+								<i class="zmdi zmdi-chevron-right"></i>
+							</span>
+						</a>
+						
+												
+																					<ul class="dropdown js-menu-slevel-dropdown">
+									<li>
+										<div class="container">
+											<div class="row tpl-row-menu-slevel-dropdown">
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Vacante Eximtur																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																																																																									
+																																	
+																																																																																																																																									
+																																	
+																																																																																																																																									
+																																	
+																																																																																																																																									
+																																	
+																																																																																																																																									
+																																	
+																																																																																																																																									
+																																	
+																																																																																																																																									
+																																	
+																																																																																																																																									
+																																	
+																																																																																													 
+																																																																																					
+																																	
+																																																																			
+																																																																				
+																																																																																																																																											
+																																																																				
+																																																																																																																																											
+																																																																				
+																																																																																																																																											
+																																																																				
+																																																																																																																																											
+																																																																				
+																																																																																																																									
+																																																	
+																	<li>
+																		<a href="weekend-in-romania">Oferte de weekend în România</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="vacante-cu-vouchere">Vacanțe cu vouchere</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="wellness-spa-romania">Wellness &amp; Spa in Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="litoral-marea-neagra">Litoral România</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="castele-conace">Castele și conace in Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="statiuni-balneo-in-romania">Stațiuni balneo în România</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="inscrieri-timpurii">Litoral România - Înscrieri Timpurii</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="delta-dunarii">Delta Dunării</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="maramures">Maramureș</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="vacante-romania-familii-cu-copii">Vacanțe în România pentru familii cu copii</a>
+																	</li>
+																	
+																																			<a class="mega-menu-more-children" href="individual">Vezi toate</a>
+																		
+																																	</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Sejururi fara transport																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																																					
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																	
+																																																	
+																	<li>
+																		<a href="individual/Covasna-489892-7697">Covasna - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Baraolt-1113288-7697">Baraolt - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Balvanyos-489830-7697">Balvanyos - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Geoagiu-Bai-489932-7697">Geoagiu-Bai - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Azuga-489815-7697">Azuga - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Sovata-490075-7697">Sovata - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Pucioasa-490022-7697">Pucioasa - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Sulina-490081-7697">Sulina - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Baile+Felix-489821-7697">Baile Felix - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Buzias-489865-7697">Buzias - Romania</a>
+																	</li>
+																	
+																																			<a class="mega-menu-more-children" href="individual">Vezi toate</a>
+																		
+																																	</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu  ms-grp-hide">
+																	__gen_mk__Sejururi fara transport__1																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																																					
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																	
+																																																	
+																	<li>
+																		<a href="individual/Baile+1+Mai-489820-7697">Baile 1 Mai - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Mangalia-489962-7697">Mangalia - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Bazna-489834-7697">Bazna - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Cap+Aurora-489875-7697">Cap Aurora - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Borsec-489849-7697">Borsec - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Eforie+Sud-489919-7697">Eforie Sud - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Turda-490103-7697">Turda - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Eforie+Nord-489918-7697">Eforie Nord - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Bran-489853-7697">Bran - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Lacul+Sarat-489954-7697">Lacul Sarat - Romania</a>
+																	</li>
+																	
+																																			<a class="mega-menu-more-children" href="individual">Vezi toate</a>
+																		
+																																	</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu  ms-grp-hide">
+																	__gen_mk__Sejururi fara transport__2																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																																					
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																	
+																																																	
+																	<li>
+																		<a href="individual/Campulung+Moldovenesc-489874-7697">Campulung Moldovenesc - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Neptun-489987-7697">Neptun - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Ocna+Sibiului-489988-7697">Ocna Sibiului - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Costinesti-489891-7697">Costinesti - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Praid-490018-7697">Praid - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Sighetu+Marmatiei-490063-7697">Sighetu Marmatiei - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Jupiter-489952-7697">Jupiter - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Tautii-Magheraus+%28MM%29-1726972-7697">Tautii-Magheraus (MM) - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Techirghiol-679091-7697">Techirghiol - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Baile+Tusnad-489826-7697">Baile Tusnad - Romania</a>
+																	</li>
+																	
+																																			<a class="mega-menu-more-children" href="individual">Vezi toate</a>
+																		
+																																	</ul>
+														</div>
+													</div>
+																							</div>
+										</div>
+									</li>
+								</ul>
+																		</li>
+									
+															
+					
+																				<li class="tpl-menu-item js-menu-flevel-itm-li menu-itm mega-menu">
+						<a href="vacante-strainatate" class=" js-menu-flevel-itm-with-children cs-menu-flevel-itm-with-children vacantestrainatate"><span>Vacante in strainatate</span>
+							<span>
+								<i class="zmdi zmdi-chevron-right"></i>
+							</span>
+						</a>
+						
+												
+																					<ul class="dropdown js-menu-slevel-dropdown">
+									<li>
+										<div class="container">
+											<div class="row tpl-row-menu-slevel-dropdown">
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Vacante Eximtur																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																																																																									
+																																	
+																																																																																																																																									
+																																	
+																																																																																																																																									
+																																	
+																																																																																																																																									
+																																	
+																																																																																																																																									
+																																	
+																																																																																																																																									
+																																	
+																																																																																																																																									
+																																	
+																																																																																				
+																																																	
+																	<li>
+																		<a href="hoteluri_adults_only">Hoteluri adults only</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="Maldive-88-7699">Maldive</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="destinatii-exotice">Destinații exotice</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="wellness-spa">Wellness &amp; Spa în străinătate</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="vacante-strainatate-familii-cu-copii">Vacanțe în străinătate pentru familii cu copii</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="Egipt-40-7699">Egipt</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="schi-in-strainatate">Schi în străinătate</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="parcuri-de-distractii">Parcuri de distracții</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Sejururi fără transport																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																																					
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																																																				
+																																																																																																																																											
+																																																																				
+																																																																																																																																											
+																																																																				
+																																																																																																																									
+																																																	
+																	<li>
+																		<a href="individual/Rimini-80679-7701">Rimini - Italy</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Corfu-397-7701">Corfu - Greece</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Litoral+Albania-144510-7701">Litoral Albania - Albania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/NISIPURILE+DE+AUR-1308-7701">NISIPURILE DE AUR - Bulgaria</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Portoroz-14395-7701">Portoroz - Slovenia</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Elenite-476175-7697">Elenite - Bulgaria</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Hajduszoboszlo-484322-7697">Hajduszoboszlo - Hungary</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Costa+Blanca-407-7701">Costa Blanca - Spain</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Dubrovnik+riviera-119489-7697">Dubrovnik riviera - Croatia</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Halkidiki-387-7701">Halkidiki - Greece</a>
+																	</li>
+																	
+																																			<a class="mega-menu-more-children" href="individual">Vezi toate</a>
+																		
+																																	</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu  ms-grp-hide">
+																	__gen_mk__Sejururi fără transport__1																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																																					
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																	
+																																																	
+																	<li>
+																		<a href="individual/Larnaca-402-7701">Larnaca - Cyprus</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Bodrum-Marmaris-Kusadasi-400-7701">Bodrum-Marmaris-Kusadasi - Turkey</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Dubai-398-7701">Dubai - United Arab Emirates</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Sf.+Constantin+si+Elena-476230-7697">Sf. Constantin si Elena - Bulgaria</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Sunny+Day-476246-7697">Sunny Day - Bulgaria</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Nessebar-476205-7697">Nessebar - Bulgaria</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Kavarna-679069-7697">Kavarna - Bulgaria</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Obzor-476207-7697">Obzor - Bulgaria</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Albena-476155-7697">Albena - Bulgaria</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="individual/Sunny+Beach-476245-7697">Sunny Beach - Bulgaria</a>
+																	</li>
+																	
+																																			<a class="mega-menu-more-children" href="hotels">Vezi toate</a>
+																		
+																																	</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Chartere																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																																					
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																	
+																																																	
+																	<li>
+																		<a href="charters/Sardinia-391-7701">Sardinia - Italy</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="charters/Toscana-420-7701">Toscana - Italy</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="charters/Ischia-466-7701">Ischia - Italy</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="charters/Tunisia-32370-7701">Tunisia - Tunisia</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="charters/Madeira-422-7701">Madeira - Portugal</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="charters/Coasta+Lisabonei-90365-7701">Coasta Lisabonei - Portugal</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="charters/Dubai-398-7701">Dubai - United Arab Emirates</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="charters/Luxor-14991-7701">Luxor - Egypt</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="charters/MOMBASA-80677-7701">MOMBASA - Kenya</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="charters/Kefalonia-144219-7701">Kefalonia - Greece</a>
+																	</li>
+																	
+																																			<a class="mega-menu-more-children" href="plane-charters">Vezi toate</a>
+																		
+																																	</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu  ms-grp-hide">
+																	__gen_mk__Chartere__2																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																																					
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																	
+																																																	
+																	<li>
+																		<a href="charters/Kos-388-7701">Kos - Greece</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="charters/Phuket-13706-7701">Phuket - Thailand</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="charters/Costa+del+Sol-423-7701">Costa del Sol - Spain</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="charters/Seychelles-15675-7701">Seychelles - Seychelles</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="charters/Costa+Brava-392-7701">Costa Brava - Spain</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="charters/Aqaba-1802089-7697">Aqaba - Jordan</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="charters/Mallorca-424-7701">Mallorca - Spain</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="charters/Mauritius-487887-7697">Mauritius - Mauritius</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="charters/Tenerife-399-7701">Tenerife - Spain</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="charters/Sri+Lanka-132263-7701">Sri Lanka - Sri Lanka</a>
+																	</li>
+																	
+																																			<a class="mega-menu-more-children" href="plane-charters">Vezi toate</a>
+																		
+																																	</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu  ms-grp-hide">
+																	__gen_mk__Chartere__3																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																																					
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																	
+																																																	
+																	<li>
+																		<a href="charters/Rodos-416-7701">Rodos - Greece</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="charters/Antalya-396-7701">Antalya - Turkey</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="charters/Hurghada-10797-7701">Hurghada - Egypt</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="charters/Sharm+El+Sheikh-409-7701">Sharm El Sheikh - Egypt</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="charters/Larnaca-402-7701">Larnaca - Cyprus</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Circuite externe																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																																																																																																																		
+																																	
+																																																																			
+																																	
+																																																	
+																																																	
+																	<li>
+																		<a href="tours/Turcia-155-7699">Turcia</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="tours/Maroc-98-7699">Maroc</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="tours/SUA-161-7699">SUA</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																							</div>
+										</div>
+									</li>
+								</ul>
+																		</li>
+									
+															
+					
+																				<li class="tpl-menu-item js-menu-flevel-itm-li menu-itm mega-menu">
+						<a href="hotel" class=" js-menu-flevel-itm-with-children cs-menu-flevel-itm-with-children hotel"><span>Cazare în orașe</span>
+							<span>
+								<i class="zmdi zmdi-chevron-right"></i>
+							</span>
+						</a>
+						
+												
+																					<ul class="dropdown js-menu-slevel-dropdown">
+									<li>
+										<div class="container">
+											<div class="row tpl-row-menu-slevel-dropdown">
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Tunisia																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																			
+																																																	
+																	<li>
+																		<a href="hotel/Tunis-493494-7697">Tunis - Tunisia</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Elvetia																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																																					
+																																	
+																																																	
+																																																	
+																	<li>
+																		<a href="hotel/Geneva+Airport-492648-7697">Geneva Airport - Switzerland</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="hotel/Zurich-493222-7697">Zurich - Switzerland</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	New Zealand																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																																					
+																																	
+																																																	
+																																																	
+																	<li>
+																		<a href="hotel/Wellington-488673-7697">Wellington - New Zealand</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="hotel/Auckland-488626-7697">Auckland - New Zealand</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Ungaria																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																			
+																																																	
+																	<li>
+																		<a href="hotel/Budapest-1420004-7697">Budapest - Hungary</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Spania																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																																					
+																																	
+																																																	
+																																																	
+																	<li>
+																		<a href="hotel/Barcelona-490759-7697">Barcelona - Spain</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="hotel/MADRID-1407821-7697">MADRID - Spain</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Finland																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																			
+																																																	
+																	<li>
+																		<a href="hotel/Helsinki-477663-7697">Helsinki - Finland</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Estonia																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																			
+																																																	
+																	<li>
+																		<a href="hotel/Tallinn-477598-7697">Tallinn - Estonia</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Italia																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																																					
+																																	
+																																																																			
+																																	
+																																																	
+																																																	
+																	<li>
+																		<a href="hotel/Milano-486322-7697">Milano - Italy</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="hotel/Venetia-487355-7697">Venetia - Italy</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="hotel/Roma-1415597-7697">Roma - Italy</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Romania																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																																					
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																																			
+																																	
+																																																	
+																																																	
+																	<li>
+																		<a href="hotel/Cluj+Napoca-489798-7697">Cluj Napoca - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="hotel/Timisoara-490095-7697">Timisoara - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="hotel/Sibiu-490060-7697">Sibiu - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="hotel/Iasi-489799-7697">Iasi - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="hotel/Brasov-489854-7697">Brasov - Romania</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="hotel/Bucuresti-1420005-7697">Bucuresti - Romania</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Polonia																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																																					
+																																	
+																																																	
+																																																	
+																	<li>
+																		<a href="hotel/Varsovia-119550-7697">Varsovia - Poland</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="hotel/Cracovia-489331-7697">Cracovia - Poland</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Brazilia																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																																					
+																																	
+																																																	
+																																																	
+																	<li>
+																		<a href="hotel/Sao+Paulo-476137-7697">Sao Paulo - Brazil</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="hotel/Rio+de+Janeiro-476126-7697">Rio de Janeiro - Brazil</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Croatia																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																																					
+																																	
+																																																	
+																																																	
+																	<li>
+																		<a href="hotel/Zagreb-476844-7697">Zagreb - Croatia</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="hotel/DUBROVNIK+AND+RIVIERA-1398634-7697">DUBROVNIK AND RIVIERA - Croatia</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Serbia																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																			
+																																																	
+																	<li>
+																		<a href="hotel/Belgrade-490263-7697">Belgrade - Serbia</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Turcia																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																			
+																																																	
+																	<li>
+																		<a href="hotel/Istanbul-119516-7697">Istanbul - Turkey</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Austria																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																																					
+																																	
+																																																	
+																																																	
+																	<li>
+																		<a href="hotel/Salzburg-475495-7697">Salzburg - Austria</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="hotel/Viena-1437188-7697">Viena - Austria</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Slovakia																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																			
+																																																	
+																	<li>
+																		<a href="hotel/Bratislava-490357-7697">Bratislava - Slovakia</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	United Kingdom																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																			
+																																																	
+																	<li>
+																		<a href="hotel/LONDON+%28UK%29-1409454-7697">LONDON (UK) - United Kingdom</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Franta																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																																					
+																																	
+																																																	
+																																																	
+																	<li>
+																		<a href="hotel/Paris-Disneyland-479834-7697">Paris-Disneyland - France</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="hotel/Paris-479820-7697">Paris - France</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Emiratele Arabe Unite																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																			
+																																																	
+																	<li>
+																		<a href="hotel/DUBAI+AREA-1408903-7697">DUBAI AREA - United Arab Emirates</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Cipru																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																			
+																																																	
+																	<li>
+																		<a href="hotel/Larnaca-476872-7697">Larnaca - Cyprus</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Irlanda																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																			
+																																																	
+																	<li>
+																		<a href="hotel/Dublin-484897-7697">Dublin - Ireland (Republic Of)</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Slovenia																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																			
+																																																	
+																	<li>
+																		<a href="hotel/Ljubljana-490445-7697">Ljubljana - Slovenia</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Israel																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																																					
+																																	
+																																																	
+																																																	
+																	<li>
+																		<a href="hotel/Tel+Aviv-485075-7697">Tel Aviv - Israel</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="hotel/Jerusalem-485115-7697">Jerusalem - Israel</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Japan																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																			
+																																																	
+																	<li>
+																		<a href="hotel/Tokyo-487571-7697">Tokyo - Japan</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Germania																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																			
+																																																	
+																	<li>
+																		<a href="hotel/Berlin-481165-7697">Berlin - Germany</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Singapore																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																																					
+																																	
+																																																	
+																																																	
+																	<li>
+																		<a href="hotel/SINGAPORE-ALL+LOCATIONS-1407134-7697">SINGAPORE-ALL LOCATIONS - Singapore</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="hotel/SINGAPORE-ALL+LOCATIONS-1407134-7697">SINGAPORE-ALL LOCATIONS - Singapore</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Olanda																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																			
+																																																	
+																	<li>
+																		<a href="hotel/Amsterdam-488106-7697">Amsterdam - Netherlands</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Moldova																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																			
+																																																	
+																	<li>
+																		<a href="hotel/Chisinau-487981-7697">Chisinau - Moldova</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Thailanda																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																			
+																																																	
+																	<li>
+																		<a href="hotel/BANGKOK-1408533-7697">BANGKOK - Thailand</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Danemarca																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																			
+																																																	
+																	<li>
+																		<a href="hotel/Copenhaga-477184-7697">Copenhaga - Denmark</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	India																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																			
+																																																	
+																	<li>
+																		<a href="hotel/New+Delhi-484646-7697">New Delhi - India</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	SUA																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																																					
+																																	
+																																																	
+																																																	
+																	<li>
+																		<a href="hotel/PHILADELPHIA+%28PA%29-1413468-7697">PHILADELPHIA (PA) - United States of America</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="hotel/SEATTLE+%28WA%29-1414004-7697">SEATTLE (WA) - United States of America</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Portugalia																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																			
+																																																	
+																	<li>
+																		<a href="hotel/Lisbon-1419451-7697">Lisbon - Portugal</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Sweden																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																			
+																																																	
+																	<li>
+																		<a href="hotel/Stockholm-492327-7697">Stockholm - Sweden</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	China																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																																					
+																																	
+																																																	
+																																																	
+																	<li>
+																		<a href="hotel/BEIJING+AREA-1398260-7697">BEIJING AREA - China</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="hotel/SHANGHAI+AREA-1398402-7697">SHANGHAI AREA - China</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Norway																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																			
+																																																	
+																	<li>
+																		<a href="hotel/Oslo-488999-7697">Oslo - Norway</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Philippines																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																			
+																																																	
+																	<li>
+																		<a href="hotel/MANILA+AREA-1405731-7697">MANILA AREA - Philippines</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Egipt																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																			
+																																																	
+																	<li>
+																		<a href="hotel/Cairo-477520-7697">Cairo - Egypt</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Grecia																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																			
+																																																	
+																	<li>
+																		<a href="hotel/ATHENS+AREA-1401590-7697">ATHENS AREA - Greece</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Australia																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																																					
+																																	
+																																																																			
+																																	
+																																																	
+																																																	
+																	<li>
+																		<a href="hotel/Canberra-474851-7697">Canberra - Australia</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="hotel/Sydney-474970-7697">Sydney - Australia</a>
+																	</li>
+																	
+																																																		
+																	<li>
+																		<a href="hotel/Melbourne-474918-7697">Melbourne - Australia</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Belgia																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																			
+																																																	
+																	<li>
+																		<a href="hotel/Bruxelles-475768-7697">Bruxelles - Belgium</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Kenya																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																			
+																																																	
+																	<li>
+																		<a href="hotel/Nairobi-487634-7697">Nairobi - Kenya</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																									<div class="col-4">
+														<div class="mega-submenu">
+																															<p class="menu-column-title ms-grp js-open-submenu ">
+																	Cehia																	<span>
+																		<i class="zmdi zmdi-chevron-right"></i>
+																	</span>
+																</p>
+																														
+															<ul>
+																																																																																																																																					
+																																	
+																																																																																													 
+																																																																			
+																																																	
+																	<li>
+																		<a href="hotel/Praga-119539-7697">Praga - Czech Republic</a>
+																	</li>
+																	
+																																																</ul>
+														</div>
+													</div>
+																							</div>
+										</div>
+									</li>
+								</ul>
+																		</li>
+									
+															
+					
+																				<li class="tpl-menu-item js-menu-flevel-itm-li menu-itm">
+						<a href="https://www.eximtur.ro/bilete-de-avion" class="httpswwweximturrobiletedeavion"><span>BILETE DE AVION</span>
+							<span>
+								<i class="zmdi zmdi-chevron-right"></i>
+							</span>
+						</a>
+						
+												
+											</li>
+																																																																																																																									<li class="show-md">
+							<a href="bileteavion">ZBORURI DIRECTE DIN ȚARĂ</a>
+						</li>
+																				<li class="show-md">
+							<a href="https://www.eximtur.ro/conditii-calatorie">REGULI CALATORIE COVID 19</a>
+						</li>
+																				<li class="show-md">
+							<a href="blog">INFORMATII UTILE</a>
+						</li>
+																				<li class="show-md">
+							<a href="contact">CONTACT</a>
+						</li>
+																				<li class="show-md">
+							<a href="despre-noi">DESPRE NOI</a>
+						</li>
+																				<li class="show-md">
+							<a href="cariere">CARIERE</a>
+						</li>
+												</ul>
+			
+	</nav>
+					</div>
+				</div>
+				
+				<div class="simple-menu">
+					<ul>
+																																																																																	<li class="zboruri-directe-din-ȚarĂ simple-menu-item">
+									<a href="bileteavion">ZBORURI DIRECTE DIN ȚARĂ</a>
+									
+																										</li>
+																																				<li class="reguli-calatorie-covid-19 simple-menu-item">
+									<a href="https://www.eximtur.ro/conditii-calatorie">REGULI CALATORIE COVID 19</a>
+									
+																										</li>
+																																				<li class="informatii-utile simple-menu-item">
+									<a href="blog">INFORMATII UTILE</a>
+									
+																										</li>
+																																				<li class="contact simple-menu-item">
+									<a href="contact">CONTACT</a>
+									
+																										</li>
+																																				<li class="despre-noi simple-menu-item">
+									<a href="despre-noi">DESPRE NOI</a>
+									
+																										</li>
+																																				<li class="cariere simple-menu-item">
+									<a href="cariere">CARIERE</a>
+									
+																										</li>
+																		</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+		
+		<div q-args="$searchQuery = null, $results = null" class="global-search-results QWebControl" qctrl="content(Omi\TF\View\GlobalSearch)">
+	<div class="container p-left-10 p-right-10 m-bottom-10">	
+	<div class="panel">
+		<div class="panel-heading">
+			<h1 class="panel-title global-search-results-title">Rezultate cautare pentru <i><b>Turcia</b></i></h1>
+		</div>
+		<div class="panel-container">
+			<div>
+																													
+										
+					<h4 class="global-search-results-section-title">50 rezultate in Destinatii</h4>
+					<ul class="global-search-results-ul">
+													<li>
+								<a href="Turcia-155-7699">Turcia in destinatii</a>
+							</li>
+													<li>
+								<a href="charters/Antalya-396-7701">Antalya (Turcia) in chartere externe</a>
+							</li>
+													<li>
+								<a href="charters/Bodrum-Marmaris-Kusadasi-400-7701">Bodrum-Marmaris-Kusadasi (Turcia) in chartere externe</a>
+							</li>
+													<li>
+								<a href="charters/Cappadocia-136038-7701">Cappadocia (Turcia) in chartere externe</a>
+							</li>
+													<li>
+								<a href="charters/ISTANBUL-127491-7701">ISTANBUL (Turcia) in chartere externe</a>
+							</li>
+													<li>
+								<a href="tours/Turcia-155-7699">Turcia in circuite</a>
+							</li>
+													<li>
+								<a href="bus-tours/Turcia-155-7699">Turcia in circuite cu autocarul</a>
+							</li>
+													<li>
+								<a href="individual/Antalya-396-7701">Antalya (Turcia) in sejururi fără transport</a>
+							</li>
+													<li>
+								<a href="individual/Bodrum-Marmaris-Kusadasi-400-7701">Bodrum-Marmaris-Kusadasi (Turcia) in sejururi fără transport</a>
+							</li>
+													<li>
+								<a href="individual/Cappadocia-1175-7701">Cappadocia (Turcia) in sejururi fără transport</a>
+							</li>
+													<li>
+								<a href="individual/GEBZE+%28KOCAELI%29-1408729-7697">GEBZE (KOCAELI) (Turcia) in sejururi fără transport</a>
+							</li>
+													<li>
+								<a href="individual/Goreme-493605-7697">Goreme (Turcia) in sejururi fără transport</a>
+							</li>
+													<li>
+								<a href="individual/ICMELER-1508937-7697">ICMELER (Turcia) in sejururi fără transport</a>
+							</li>
+													<li>
+								<a href="individual/ISTANBUL-127491-7701">ISTANBUL (Turcia) in sejururi fără transport</a>
+							</li>
+													<li>
+								<a href="individual/PAMUKKALE-1300-7701">PAMUKKALE (Turcia) in sejururi fără transport</a>
+							</li>
+													<li>
+								<a href="individual/Sarigerme-1417423-7697">Sarigerme (Turcia) in sejururi fără transport</a>
+							</li>
+													<li>
+								<a href="hotel/Bodrum-Marmaris-Kusadasi-400-7701">Bodrum-Marmaris-Kusadasi (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/Sinop-13809-7701">Sinop (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/Buyukada+%28princes+Islands%29-1415962-7697">Buyukada (princes Islands) (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/MARDIN+PROVINCE-1408771-7697">MARDIN PROVINCE (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/ALTINKUM-DIDIM-1408679-7697">ALTINKUM-DIDIM (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/KAHRAMANMARAS+AREA-1408750-7697">KAHRAMANMARAS AREA (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/ISTANBUL-127491-7701">ISTANBUL (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/Rize-13421-7701">Rize (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/Batman-12301-7701">Batman (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/Kizilcahamam-1418204-7697">Kizilcahamam (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/GEBZE+%28KOCAELI%29-1408729-7697">GEBZE (KOCAELI) (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/Sile-1417355-7697">Sile (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/IYIDERE-1408747-7697">IYIDERE (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/Usak-12682-7701">Usak (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/Diyarbakir-14156-7701">Diyarbakir (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/Antalya-396-7701">Antalya (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/Goreme-493605-7697">Goreme (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/Foca-1416638-7697">Foca (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/Akhisar-493532-7697">Akhisar (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/ISTANBUL+-+ATATURK+AIRPORT-1408744-7697">ISTANBUL - ATATURK AIRPORT (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/Darica-1416341-7697">Darica (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/Eskisehir-493593-7697">Eskisehir (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/Sapanca-1417724-7697">Sapanca (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/Afyonkarahisar-12031-7701">Afyonkarahisar (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/Iskenderun-1418011-7697">Iskenderun (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/Tokat-11850-7701">Tokat (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/Corlu-1415556-7697">Corlu (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/Mudurnu-1418877-7697">Mudurnu (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/Assos-493552-7697">Assos (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/Kas-493635-7697">Kas (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/Adiyaman-14581-7701">Adiyaman (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/HENDEK-1408738-7697">HENDEK (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/SULTANHISAR-1408808-7697">SULTANHISAR (Turcia) in cazare în orașe</a>
+							</li>
+													<li>
+								<a href="hotel/CAYKARA-1408704-7697">CAYKARA (Turcia) in cazare în orașe</a>
+							</li>
+											</ul>
+																			
+							</div>
+		</div>
+	</div>
+</div>
+</div>
+		
+				
+	
+	
+	
+	
+<footer id="footer" class="opensans f-size-13 border-top" q-args="$MenuItms = null, $Pages = null, $UserIsSubscribed = null, $blogPosts = null">
+		<div class="footer-prepend-contact">
+			<div class="container">
+				<div class="flex-row">
+					<p>Nu ai gasit oferta sau perioada dorita?</p>
+					<a class="btn btn-white" href="contact">Contacteaza-ne</a>
+				</div>
+			</div>
+		</div>
+	
+		
+			
+	<!-- GOOGLE AD TRACK CLICK :: BEGIN -->
+		<!-- GOOGLE AD TRACK CLICK :: END -->
+	
+	<!-- AUTO POPUP :: BEGIN -->
+		<!-- AUTO POPUP :: END -->
+	
+							
+	<!-- FOOTER TOP :: BEGIN -->
+	
+		<div class="footer-columns">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6">
+						<div class="row">
+							<div class="col-sm-4">
+								<div class="footer-column mobile-accordion js-mobile-accordion" style="line-height: 1.4;">
+									<p class="footer-column-title mobile-accordion-btn js-mobile-accordion-btn">Eximtur SRL</p>
+									<div class="mobile-accordion-content js-mobile-accordion-content">
+																					<b>S.C. EXIMTUR S.R.L.</b>  |  RO3553943  |  J12/1029/1993  |  Sediu Social: Str. Nichita Stanescu Nr.16, 400366 Cluj-Napoca  | <a href="https://www.eximtur.ro/documents/Licenta%20EXIMTUR%202021_61fce6dc95065.pdf" target="_blank" style="text-decoration:underline"> Licenta de turism nr. 213 </a> | <a href="polita-asigurare" target="_blank" style="text-decoration:underline"> POLITA DE ASIGURARE </a> | <a href="http://www.anpc.gov.ro" target="_blank" title="Autoritatea Nationala pentru Protectia Consumatorilor"><!--Autoritatea Nationala pentru Protectia Consumatorilor--><b> A.N.P.C. </b></a> 
+																			</div>
+								</div>
+							</div>
+							<div class="col-sm-4">
+								<div class="footer-column mobile-accordion js-mobile-accordion">
+									<p class="footer-column-title mobile-accordion-btn js-mobile-accordion-btn">Contact</p>
+									<div class="mobile-accordion-content js-mobile-accordion-content">
+											
+
+	
+		<div class="fbox tpl-footer-contact-fbox footer-contact-fbox">
+										<p><!--Str. Nichita Stanescu nr. 16, Cluj-Napoca--></p>
+							
+			<p><span>
+	<strong>0364 803 888</strong></span></p>
+			<p><!-- <a href="mailto:oferte-site@eximtur.ro">oferte-site@eximtur.ro</a> --></p>
+			<p>
+				<a href="contact">Contacteaza-ne</a>
+			</p>
+		</div>
+	
+	
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-4">
+								<div class="footer-column mobile-accordion js-mobile-accordion">
+									<p class="footer-column-title mobile-accordion-btn js-mobile-accordion-btn">Informatii legale</p>
+									<div class="mobile-accordion-content js-mobile-accordion-content">
+											<div class="fbox">
+		<ul class="f-sitemap">
+																						<li><a href="protectia-datelor-personale" class="cs-footer-protectiadatelorpersonale">Politica de prelucrare a datelor cu caracter personal</a></li>
+																			<li><a href="cookie" class="cs-footer-cookie">Politica de utilizare cookie</a></li>
+																			<li><a href="informare-supraveghere-video" class="cs-footer-informaresupravegherevideo">Politica privind supravegherea video</a></li>
+																			<li><a href="termeni-conditii" class="cs-footer-termeniconditii">Termeni și condiții de utilizare</a></li>
+																			<li><a href="Reclamatii" class="cs-footer-Reclamatii">Reclamații</a></li>
+																			<li><a href="servicii-calatorie" class="cs-footer-serviciicalatorie">Informații Servicii de călătorie</a></li>
+																			<li><a href="concursuri" class="cs-footer-concursuri">Concursuri, promoții, regulamente și câștigători</a></li>
+																			<li><a href="asigurari" class="cs-footer-asigurari">Asigurări de călătorie</a></li>
+										<li>
+				<a target="_blank" href="site-map">Sitemap</a>
+			</li>
+		</ul>
+	</div>
+
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="row">
+							<div class="col-sm-2 hide-on-mobile">&nbsp;</div>
+							<div class="col-sm-6">
+								<div class="footer-column">
+									<p class="footer-column-title">Pastram legatura</p>
+										
+	
+	
+
+			
+		<div class="newsletter tpl-mailchimp-newsletter">
+			<div class="row">
+				<div class="col-sm-6 footer-newsletter-buttons">
+					<a href="https://mailchi.mp/eximtur/abonare-news-eximtur-site" class="footer-newsletter-btn btn" target="_blank">Abonare Newsletter</a>
+
+					<a href="blog" class="footer-blog-btn btn">Blog eximtur</a>
+				</div>
+				<div class="col-sm-6">&nbsp;</div>
+			</div>
+		</div>
+	
+		<div class="row social-container m-top-20">
+					<a target="_blank" href="https://www.facebook.com/eximtur/" class="social-item facebook"><i class="fab fa-facebook-f"></i></a>
+							<a target="_blank" href="https://twitter.com/Eximtur" class="social-item twitter"><i class="fab fa-twitter"></i></a>
+							<a target="_blank" href="https://www.youtube.com/channel/UCktu799Q7-hJWiSB7bzLRLQ" class="social-item youtube"><i class="fab fa-youtube"></i></a>
+									<a target="_blank" href="https://www.instagram.com/eximtur.ro/" class="social-item instagram"><i class="fab fa-instagram"></i></a>
+							<a target="_blank" href="https://www.pinterest.com/" class="social-item pinterest"><i class="fab fa-pinterest-p"></i></a>
+							<a target="_blank" href="https://www.linkedin.com/company/eximtur/" class="social-item linkedin"><i class="fab fa-linkedin-in"></i></a>
+			</div>
+	
+			
+		
+		
+	
+								</div>
+							</div>
+							<div class="col-sm-4">
+								<div class="footer-column">
+									<p class="footer-column-title">Rezervarile pot fi platite cu cardul</p>
+																			<div class="p-right tpl-footer-right-col">
+											<!-- Rezervarile pot fi platite cu cardul. --> <img src="uploads/images/Banner-Netopia_EXIMTUR.jpg">										</div>
+																	</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+	<!-- FOOTER TOP :: END -->
+
+	<!-- FOOTER BOTTOM :: BEGIN -->
+	
+		<div class="footer-bottom">
+			<div class="container">
+									<div class="align-center footer-developed-by">
+						Serviciu dezvoltat si oferit de <strong><a href="https://www.travelfuse.ro/" target="_blank">TravelFuse</a></strong>
+					</div>
+							</div>
+		</div>
+	
+	<!-- FOOTER BOTTOM :: END -->
+	
+	<!-- GOOGLE ADS TRACK TAG :: BEGIN -->
+		<!-- GOOGLE ADS TRACK TAG :: END -->
+</footer>
+					<link type="text/css" rel="stylesheet" href="code/temp/res/99ab211776ab0d910639fc3a6c3022d973f1b3f3.gen.min.css">
+<div data-gen-file="code/temp/res/99ab211776ab0d910639fc3a6c3022d973f1b3f3.gen.min.css" class="q-fake-css" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/base/Travel/Travel.css"></div>
+		<script type="text/javascript" src="code/temp/res/127fd602e62857b18b8b2b256494379f3b75d6c0.gen.min.js"></script>
+<div data-gen-file="code/temp/res/127fd602e62857b18b8b2b256494379f3b75d6c0.gen.min.js" class="q-fake-js" style="display: none;" data-src="code/temp/model_type.js"></div>
+<div data-gen-file="code/temp/res/127fd602e62857b18b8b2b256494379f3b75d6c0.gen.min.js" class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/omi-frame/src/model/QModel.js"></div>
+<div data-gen-file="code/temp/res/127fd602e62857b18b8b2b256494379f3b75d6c0.gen.min.js" class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/omi-frame/src/model/QModelArray.js"></div>
+<div data-gen-file="code/temp/res/127fd602e62857b18b8b2b256494379f3b75d6c0.gen.min.js" class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/omi-frame/src/view/QViewBase.js"></div>
+<div data-gen-file="code/temp/res/127fd602e62857b18b8b2b256494379f3b75d6c0.gen.min.js" class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/omi-frame/src/view/QWebControl.js"></div>
+<div data-gen-file="code/temp/res/127fd602e62857b18b8b2b256494379f3b75d6c0.gen.min.js" class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/omi-frame/src/view/QWebPage.js"></div>
+<div data-gen-file="code/temp/res/127fd602e62857b18b8b2b256494379f3b75d6c0.gen.min.js" class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/base/Frontend/Frontend.js"></div>
+<div data-gen-file="code/temp/res/127fd602e62857b18b8b2b256494379f3b75d6c0.gen.min.js" class="q-fake-js" style="display: none;" data-src="https://cdn-prod.travelfuse.ro/releases/2022-04-14/travelfuse-views/base/Travel/Travel.js"></div>
+<div data-gen-file="code/temp/res/127fd602e62857b18b8b2b256494379f3b75d6c0.gen.min.js" class="q-fake-js" style="display: none;" data-src="https://www.eximtur.ro/code/res/js/unload_custom.js"></div>
+			
+					
+	
+			
+			<script tag="js-google-addservice"></script>
+			
+								
+						
+			
+																			
+			
+																			
+			
+							
+
+			<!-- MAILAGENT POPUP :: BEGIN -->
+						<!-- MAILAGENT POPUP :: END -->
+
+			<!-- FACEBOOK SDK :: BEGIN -->
+						<!-- FACEBOOK SDK :: END -->
+
+			
+			
+							<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/604a0498385de407571f03ac/1f0gi3vn8';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script--> 
+			
+						
+<div id="PopupSignupForm_0" widgetid="PopupSignupForm_0">
+    <!-- MC BANNER -->
+    <div class="mc-banner" data-dojo-attach-point="bannerContainer" style="display: none;">
+        <div class="mc-layout__bannerContent">
+            <iframe src="about:blank" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="width: 100%; height: 24px;" data-dojo-attach-point="iframeBannerContainer"></iframe>
+        </div>
+    </div>
+
+    <!-- MC MODAL -->
+    <div class="mc-modal" data-dojo-attach-point="modalContainer" style="display: none;">
+        <div class="mc-closeModal" style="display:block !important;" data-action="close-mc-modal" data-dojo-attach-point="modalClose"></div>
+        <div class="mc-layout__modalContent" style="max-height: 0px;">
+            <iframe src="about:blank" frameborder="0" marginwidth="0" marginheight="0" style="width: 100%; height: 0px;" data-dojo-attach-point="iframeModalContainer"></iframe>
+        </div>
+    </div>
+
+    <!-- MC MODAL OVERLAY -->
+    <div class="mc-modal-bg" data-dojo-attach-point="modalOverlay" style="display: none;"></div>
+</div><iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-21ccaa45726c0f3c8c458f7a87eb2298.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><script async="" charset="UTF-8" src="https://embed.tawk.to/_s/v4/app/625d36b405c/languages/ro.js"></script><div id="g38ipidc2iqo1652104913061" style="display: none !important;"><iframe src="about:blank" frameborder="0" scrolling="no" width="64px" height="60px" style="outline:none !important; visibility:visible !important; resize:none !important; box-shadow:none !important; overflow:visible !important; background:none !important; opacity:1 !important; filter:alpha(opacity=100) !important; -ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1}) !important; -mz-opacity:1 !important; -khtml-opacity:1 !important; top:auto !important; right:20px !important; bottom:20px !important; left:auto !important; position:fixed !important; border:0 !important; min-height:60px !important; min-width:64px !important; max-height:60px !important; max-width:64px !important; padding:0 !important; margin:0 !important; -moz-transition-property:none !important; -webkit-transition-property:none !important; -o-transition-property:none !important; transition-property:none !important; transform:none !important; -webkit-transform:none !important; -ms-transform:none !important; width:64px !important; height:60px !important; display:block !important; z-index:1000001 !important; background-color:transparent !important; cursor:none !important; float:none !important; border-radius:unset !important; pointer-events:auto !important; clip:auto !important; color-scheme:light !important;" id="gj657b0gh06g1652104913073" class="" title="chat widget"></iframe><iframe src="about:blank" frameborder="0" scrolling="no" width="350px" height="520px" style="outline:none !important; visibility:visible !important; resize:none !important; box-shadow:none !important; overflow:visible !important; background:none !important; opacity:1 !important; filter:alpha(opacity=100) !important; -ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1}) !important; -mz-opacity:1 !important; -khtml-opacity:1 !important; top:auto !important; right:10px !important; bottom:90px !important; left:auto !important; position:fixed !important; border:0 !important; min-height:520px !important; min-width:350px !important; max-height:520px !important; max-width:350px !important; padding:0 !important; margin:0 !important; -moz-transition-property:none !important; -webkit-transition-property:none !important; -o-transition-property:none !important; transition-property:none !important; transform:none !important; -webkit-transform:none !important; -ms-transform:none !important; width:350px !important; height:520px !important; display:none !important; z-index:auto !important; background-color:transparent !important; cursor:none !important; float:none !important; border-radius:5px !important; pointer-events:auto !important; clip:auto !important; color-scheme:light !important;" id="u9ta81o6h98g1652104913103" class="" title="chat widget"></iframe><iframe src="about:blank" frameborder="0" scrolling="no" width="360px" height="574px" style="outline:none !important; visibility:visible !important; resize:none !important; box-shadow:none !important; overflow:visible !important; background:none !important; opacity:1 !important; filter:alpha(opacity=100) !important; -ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1}) !important; -mz-opacity:1 !important; -khtml-opacity:1 !important; top:auto !important; right:20px !important; bottom:100px; left:auto !important; position:fixed !important; border:0 !important; min-height:574px !important; min-width:360px !important; max-height:574px !important; max-width:360px !important; padding:0 !important; margin:0 !important; -moz-transition-property:none !important; -webkit-transition-property:none !important; -o-transition-property:none !important; transition-property:none !important; transform:none !important; -webkit-transform:none !important; -ms-transform:none !important; width:360px !important; height:574px !important; display:none !important; z-index:auto !important; background-color:transparent !important; cursor:none !important; float:none !important; border-radius:unset !important; pointer-events:auto !important; clip:auto !important; color-scheme:light !important;" id="yu9jk3uogk6o1652104913093" class="" title="chat widget"></iframe><iframe src="about:blank" frameborder="0" scrolling="no" width="124px" height="95px" style="outline:none !important; visibility:visible !important; resize:none !important; box-shadow:none !important; overflow:visible !important; background:none !important; opacity:1 !important; filter:alpha(opacity=100) !important; -ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1}) !important; -mz-opacity:1 !important; -khtml-opacity:1 !important; top:auto !important; right:0px !important; bottom:30px !important; left:auto !important; position:fixed !important; border:0 !important; min-height:95px !important; min-width:124px !important; max-height:95px !important; max-width:124px !important; padding:0 !important; margin:0px 0 0 0 !important; -moz-transition-property:none !important; -webkit-transition-property:none !important; -o-transition-property:none !important; transition-property:none !important; transform:rotate(0deg) translateZ(0); -webkit-transform:rotate(0deg) translateZ(0); -ms-transform:rotate(0deg) translateZ(0); width:124px !important; height:95px !important; display:none !important; z-index:1000002 !important; background-color:transparent !important; cursor:none !important; float:none !important; border-radius:unset !important; pointer-events:auto !important; clip:auto !important; color-scheme:light !important; -moz-transform:rotate(0deg) translateZ(0); -o-transform:rotate(0deg) translateZ(0); transform-origin:0; -moz-transform-origin:0; -webkit-transform-origin:0; -o-transform-origin:0; -ms-transform-origin:0;" id="zsboga2m7opg1652104913086" class="" title="chat widget"></iframe></div></body></html>

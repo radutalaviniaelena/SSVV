@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="ssvv.features.search.FilterByDestinationDdt" skipped="0" tests="2" time="17.76" timestamp="2022-05-10 10:19:42"><testcase classname="ssvv.features.search.FilterByDestinationDdt" name="Filter by given destination should display number of hotels"><failure type="java.lang.AssertionError"/><system-err>null&#13;
+ssvv.steps.serenity.EndUserSteps.verify_number_of_hotels(EndUserSteps.java:28)&#13;
+ssvv.features.search.FilterByDestinationDdt.filter_by_given_destination_should_display_number_of_hotels(FilterByDestinationDdt.java:41)&#13;
+</system-err></testcase></testsuite>

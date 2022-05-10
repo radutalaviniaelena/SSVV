@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Search by keyword story ddt","Search wiki by keyword test DDT","FAILURE","2022-05-09T16:23:50.842+03:00[Europe/Athens]","0.0","20.63"
+"Search by keyword story ddt","Searching by keyword turcia should display the corresponding article","FAILURE","2022-05-09T17:04:15.618+03:00[Europe/Athens]","0.0","68.27"
+"Filter by destination ddt","Filter by given destination should display number of hotels","FAILURE","2022-05-09T20:26:44.784+03:00[Europe/Athens]","0.0","35.06"
